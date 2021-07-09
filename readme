@@ -1,1 +1,1 @@
-
+With this we can automate Gmail login and logout with the help of selenium webdriver similarly we can replace the Firefox driver with chrome driver and username and password can be passed as variables
